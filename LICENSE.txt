@@ -1,0 +1,62 @@
+﻿NEATSUM. LICENCIA DE USO
+
+Copyright (c) 2026 tonilv. Todos los derechos reservados.
+
+Neatsum ("el programa") es una aplicación de finanzas familiares que se
+distribuye de forma gratuita para uso personal. Al instalarlo o usarlo
+aceptas estas condiciones. Si no estás de acuerdo con ellas, no lo instales.
+
+1. LO QUE PUEDES HACER
+
+   - Instalar y usar el programa en tantos ordenadores tuyos como quieras,
+     para gestionar tus finanzas personales o las de tu familia.
+   - Hacer las copias de seguridad de tus datos que necesites.
+   - Recomendarlo y compartir el enlace oficial de descarga.
+
+2. LO QUE NO PUEDES HACER
+
+   - Copiar, redistribuir, vender, alquilar o ceder el programa o sus
+     instaladores, en todo o en parte, por ningún medio.
+   - Modificarlo, traducirlo, descompilarlo, desensamblarlo, aplicar
+     ingeniería inversa o intentar obtener su código fuente.
+   - Crear productos, versiones u obras derivadas a partir de él, ni usar su
+     nombre, su icono o su diseño en otros productos.
+   - Eliminar u ocultar los avisos de autoría y de licencia.
+   - Usarlo para prestar servicios a terceros con fines comerciales.
+
+3. TUS DATOS
+
+   El programa guarda todos los datos en tu propio ordenador, en la carpeta
+   que tú eliges. El autor no tiene acceso a ellos ni los recoge. Las
+   funciones que se apoyan en servicios de terceros (asistente de IA con tu
+   cuenta de Claude o con Ollama, avisos por Telegram, sincronización por tu
+   servicio de nube) funcionan con tus propias cuentas y se rigen por las
+   condiciones de esos servicios. Eres responsable de conservar copias de
+   seguridad de tus datos.
+
+4. SIN GARANTÍA
+
+   El programa se entrega "tal cual", sin garantía de ningún tipo. Es una
+   herramienta de organización, no asesoramiento financiero, fiscal ni legal:
+   las decisiones que tomes con la información que muestra son tuyas. En la
+   medida en que la ley lo permita, el autor no responde de ningún daño o
+   pérdida derivados de su uso o de la imposibilidad de usarlo.
+
+5. ACTUALIZACIONES
+
+   El programa comprueba si hay versiones nuevas y te ofrece instalarlas. Las
+   actualizaciones quedan sujetas a esta misma licencia, salvo que vengan
+   acompañadas de otra.
+
+6. DURACIÓN
+
+   Esta licencia es válida mientras respetes sus condiciones. Si las
+   incumples, termina automáticamente y deberás desinstalar el programa.
+
+7. LEY APLICABLE
+
+   Esta licencia se rige por la legislación española. Para cualquier
+   controversia serán competentes los juzgados y tribunales del domicilio
+   del autor, salvo que la ley disponga otro fuero para el consumidor.
+
+Gracias por usar Neatsum.
