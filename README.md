@@ -1,6 +1,6 @@
 # Ahorvix
 
-Finanzas familiares con IA, en tu ordenador. Antes se llamaba FinFlow (y, durante unos días, Ahorvix).
+Finanzas familiares con IA, en tu ordenador. Antes se llamaba FinFlow (y, durante unos días, Neatsum).
 
 Aquí solo hay instaladores. Descarga la última versión en
 [Releases](https://github.com/tonilv/ahorvix-releases/releases/latest):
