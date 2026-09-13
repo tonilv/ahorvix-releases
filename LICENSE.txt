@@ -1,8 +1,8 @@
-﻿NEATSUM. LICENCIA DE USO
+﻿AHORVIX. LICENCIA DE USO
 
 Copyright (c) 2026 tonilv. Todos los derechos reservados.
 
-Neatsum ("el programa") es una aplicación de finanzas familiares que se
+Ahorvix ("el programa") es una aplicación de finanzas familiares que se
 distribuye de forma gratuita para uso personal. Al instalarlo o usarlo
 aceptas estas condiciones. Si no estás de acuerdo con ellas, no lo instales.
 
@@ -59,4 +59,4 @@ aceptas estas condiciones. Si no estás de acuerdo con ellas, no lo instales.
    controversia serán competentes los juzgados y tribunales del domicilio
    del autor, salvo que la ley disponga otro fuero para el consumidor.
 
-Gracias por usar Neatsum.
+Gracias por usar Ahorvix.
